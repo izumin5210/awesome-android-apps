@@ -24,7 +24,7 @@
 - [JakeWharton/u2020][u2020]
 - [konifar/droidkaigi2016][droidkaigi2016]
 
-### Rx ([RxJava][rxjava])
+### Rx ([RxJava][rxjava], [RxAndroid][rxandroid])
 - [todo-mvp-rxjava (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-rxjava/)
 - [futurice/android-best-practices][bestpractice]
 - [android10/Android-CleanArchitecture][clean]
@@ -71,6 +71,7 @@ Licensed under the [MIT license](http://izumin.mit-license.org/2015).
 [dagger1]: https://github.com/square/dagger
 [dagger2]: https://github.com/google/dagger
 [rxjava]: https://github.com/ReactiveX/RxJava
+[rxandroid]: https://github.com/ReactiveX/RxAndroid
 [retrofit]: https://github.com/square/retrofit
 
 <!-- apps -->
