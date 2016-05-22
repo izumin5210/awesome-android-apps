@@ -26,8 +26,10 @@
 
 ### Rx ([RxJava][rxjava], [RxAndroid][rxandroid])
 - [todo-mvp-rxjava (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-rxjava/)
-- [futurice/android-best-practices][bestpractice]
+- [konifar/droidkaigi2016][droidkaigi2016]
 - [android10/Android-CleanArchitecture][clean]
+- [futurice/android-best-practices][bestpractice]
+- [JakeWharton/u2020][u2020]
 
 ### ORM
 #### [Android-Orma][orma]
