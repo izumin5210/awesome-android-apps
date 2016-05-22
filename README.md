@@ -75,7 +75,7 @@ Licensed under the [MIT license](http://izumin.mit-license.org/2015).
 [retrofit]: https://github.com/square/retrofit
 
 <!-- apps -->
-[droidkaigi2016]: https://github.com/gfx/Android-Orma
+[droidkaigi2016]: https://github.com/konifar/droidkaigi2016
 [u2020]: https://github.com/JakeWharton/u2020
 [effective]: https://github.com/pedrovgs/EffectiveAndroidUI
 [bestpractice]: https://github.com/futurice/android-best-practices
