@@ -16,11 +16,11 @@
 - [konifar/droidkaigi2016][droidkaigi2016]
 - [android10/Android-CleanArchitecture][clean]
 
-## HTTP client
-### [Retrofit][rerofit] v1.x
+### HTTP client
+#### [Retrofit][retrofit] v1.x
 - [futurice/android-best-practices][bestpractice]
 
-### [Retrofit][rerofit] v2.x
+#### [Retrofit][retrofit] v2.x
 - [JakeWharton/u2020][u2020]
 - [konifar/droidkaigi2016][droidkaigi2016]
 
