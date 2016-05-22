@@ -23,6 +23,7 @@
 #### [Retrofit][retrofit] v2.x
 - [JakeWharton/u2020][u2020]
 - [konifar/droidkaigi2016][droidkaigi2016]
+- [ivacf/archi][ivacf]
 
 ### Rx ([RxJava][rxjava], [RxAndroid][rxandroid])
 - [todo-mvp-rxjava (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-rxjava/)
@@ -30,6 +31,7 @@
 - [android10/Android-CleanArchitecture][clean]
 - [futurice/android-best-practices][bestpractice]
 - [JakeWharton/u2020][u2020]
+- [ivacf/archi][ivacf]
 
 ### ORM
 #### [Android-Orma][orma]
@@ -38,6 +40,7 @@
 ### DataBinding
 - [todo-databinding (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/todo-databinding/)
 - [konifar/droidkaigi2016][droidkaigi2016] 
+- [ivacf/archi][ivacf]
 
 
 ## Testing
@@ -53,6 +56,7 @@
 ### MVP / MVVM
 - [todo-mvp (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)
 - [pedrovgs/EffectiveAndroidUI][effective]
+- [ivacf/archi][ivacf]
 
 ### Clean Architecture
 - [todo-clean (googlesamples/android-architecture)](https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/)
@@ -82,3 +86,4 @@ Licensed under the [MIT license](http://izumin.mit-license.org/2015).
 [effective]: https://github.com/pedrovgs/EffectiveAndroidUI
 [bestpractice]: https://github.com/futurice/android-best-practices
 [clean]: https://github.com/android10/Android-CleanArchitecture
+[ivacf]: https://github.com/ivacf/archi
