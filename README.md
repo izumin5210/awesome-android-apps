@@ -65,6 +65,7 @@
 
 ## Others
 - [google/iosched](https://github.com/google/iosched)
+- [hidroh/materialistic](https://github.com/hidroh/materialistic)
 
 
 ---
